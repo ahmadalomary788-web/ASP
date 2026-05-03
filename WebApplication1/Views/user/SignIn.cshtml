@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Sign In";
+}
+
+<h2>Sign In</h2>
+
+<form action="/User/SignIn" method="post">
+    <input type="email" name="Email" placeholder="Email" required />
+    <br /><br />
+    <input type="password" name="Password" placeholder="Password" required />
+    <br /><br />
+    <button type="submit">Login</button>
+</form>
