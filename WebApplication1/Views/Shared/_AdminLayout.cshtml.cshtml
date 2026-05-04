@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <style>
+        body { margin: 0; padding: 0; display: flex; height: 100vh; background-color: #f4f6f9; }
+        .sidebar { width: 250px; background-color: #343a40; padding: 20px; color: white; }
+        .sidebar h3 { text-align: center; margin-bottom: 30px; }
+        .sidebar a { display: block; color: white; text-decoration: none; padding: 10px; margin-bottom: 10px; border-radius: 5px; }
+        .sidebar a:hover { background-color: #495057; }
+        .main-content { flex-grow: 1; padding: 30px; overflow-y: auto; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h3>Admin Panel</h3>
+        <a href="/Admin/Dashboard">Dashboard</a>
+        <a href="/User/Profile">User Profile</a>
+        <a href="/" style="color: #ff4d4d; margin-top: 50px;">Logout</a>
+    </div>
+    
+    <div class="main-content">
+        @RenderBody()
+    </div>
+</body>
+</html>
