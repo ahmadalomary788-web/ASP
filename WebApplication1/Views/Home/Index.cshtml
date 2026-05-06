@@ -1,8 +1,71 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Profile";
+
+    string[] users = { "Ahmad", "Omar", "Ali"};
+    int[] numbers = { 1, 2, 3, 4, 5, 6 };
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>Dashboard</h1>
+
+<hr />
+
+<h2>Users List</h2>
+<ul>
+    @foreach (var user in users)
+    {
+        <li>@user</li>
+    }
+</ul>
+
+<hr />
+
+<h2>Numbers List</h2>
+<ul>
+    @for (int i = 0; i < numbers.Length; i++)
+    {
+        <li>Index @i : @numbers[i]</li>
+    }
+</ul>
+
+<hr />
+
+<h2>Even Numbers Only</h2>
+@foreach (var num in numbers)
+{
+    if (num % 2 == 0)
+    {
+        <p>@num</p>
+    }
+}
+
+<hr />
+
+<h2>Users Table</h2>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>#</th>
+        <th>Name</th>
+    </tr>
+
+    @for (int i = 0; i < users.Length; i++)
+    {
+        <tr>
+            <td>@(i + 1)</td>
+            <td>@users[i]</td>
+        </tr>
+    }
+</table>
+
+<hr />
+
+<h2>Check Users Count</h2>
+
+@if (users.Length > 3)
+{
+    <p>There are many users</p>
+}
+else
+{
+    <p>Users are </p>
+}

@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\user\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\user\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\wwwroot\\css\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\wwwroot\\css\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|c:\\users\\user\\desktop\\mvc main\\mvc\\oyil\\oyil\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E6C90C-B046-4B89-B4EC-E3AD2DB1A280}|OYIL\\OYIL.csproj|solutionrelative:oyil\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T10:55:53.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "OYIL\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "OYIL\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:54:41.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T10:52:07.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignIn.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\wwwroot\\css\\SignIn.css",
+              "RelativeDocumentMoniker": "OYIL\\wwwroot\\css\\SignIn.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\wwwroot\\css\\SignIn.css",
+              "RelativeToolTip": "OYIL\\wwwroot\\css\\SignIn.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-04T10:45:58.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T10:40:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\User\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\User\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\User\\SignIn.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\User\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T10:40:11.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T06:34:51.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T10:44:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Program.cs",
+              "RelativeDocumentMoniker": "OYIL\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Program.cs",
+              "RelativeToolTip": "OYIL\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T10:47:49.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OYIL\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OYIL\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:38:15.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T06:33:13.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T06:33:16.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\appsettings.json",
+              "RelativeDocumentMoniker": "OYIL\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\appsettings.json",
+              "RelativeToolTip": "OYIL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T06:32:27.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\User\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\User\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\User\\SignUp.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\User\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T10:39:26.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T09:22:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "OYIL\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\OYIL\\OYIL\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "OYIL\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T10:43:01.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
