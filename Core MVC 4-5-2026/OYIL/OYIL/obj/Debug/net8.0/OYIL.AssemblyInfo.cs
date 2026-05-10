@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OYIL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bdb71ff328c61e75f345d1b962945d782e40725")]
 [assembly: System.Reflection.AssemblyProductAttribute("OYIL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OYIL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

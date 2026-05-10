@@ -15,6 +15,10 @@ namespace OYIL.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.Username = TempData["Username"];
+
+            TempData.Keep();
+
             return View();
         }
 
