@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "إنشاء حساب";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Styles {
+<style>
+    .auth-card { max-width: 580px; margin: 60px auto; }
+    .form-row { display: flex; gap: 16px; flex-wrap: wrap; }
+    .form-row .form-group { flex: 1; }
+    .required-star { color: red; }
+</style>
+}
+
+<div class="auth-card">
+    <div class="auth-header" style="background: var(--black); padding: 20px; text-align: center; border-bottom: 2px solid var(--yellow);">
+        <h2 style="color: white;">📝 إنشاء حساب جديد</h2>
+    </div>
+    <div class="auth-body" style="padding: 32px; background: white; border-radius: 0 0 var(--r-xl) var(--r-xl);">
+
+        @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+            <div class="form-row">
+                <div class="form-group">
+                    <label>الاسم الأول <span class="required-star">*</span></label>
+                    <input type="text" name="FirstName" required placeholder="أحمد">
+                </div>
+                <div class="form-group">
+                    <label>الاسم الأخير <span class="required-star">*</span></label>
+                    <input type="text" name="LastName" required placeholder="العلي">
+                </div>
+            </div>
+            <div class="form-group">
+                <label>البريد الإلكتروني <span class="required-star">*</span></label>
+                <input type="email" name="Email" required placeholder="example@dabirha.com">
+            </div>
+            <div class="form-group">
+                <label>رقم الهاتف <span class="required-star">*</span></label>
+                <input type="tel" name="Phone" required placeholder="0790000000">
+            </div>
+            <div class="form-group">
+                <label>كلمة السر <span class="required-star">*</span></label>
+                <input type="password" name="Password" required placeholder="********">
+            </div>
+            <div class="form-group">
+                <label>تأكيد كلمة السر <span class="required-star">*</span></label>
+                <input type="password" name="ConfirmPassword" required placeholder="********">
+            </div>
+            <div class="form-group">
+                <label>صورة عن الهوية <span class="required-star">*</span></label>
+                <input type="file" name="IdImage" accept="image/*" required>
+            </div>
+            <div class="form-group">
+                <label>رقم المحفظة <span class="required-star">*</span></label>
+                <input type="text" name="WalletNumber" required placeholder="9876543210">
+            </div>
+            <button type="submit" class="btn-primary">✅ إنشاء حساب</button>
+        }
+
+        <div style="text-align: center; margin-top: 24px;">
+            لديك حساب بالفعل؟ <a href="@Url.Action("Login","Account")" style="color: var(--yellow);">سجل الدخول هنا</a>
+        </div>
+    </div>
+</div>

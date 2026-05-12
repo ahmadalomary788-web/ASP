@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "عن المنصة";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .about-hero {
+        background: linear-gradient(135deg, var(--black) 0%, var(--black-800) 100%);
+        padding: 60px 40px;
+        text-align: center;
+        border-bottom: 3px solid var(--yellow);
+    }
+    .about-hero h1 { font-size: 2.8rem; color: var(--white); margin-bottom: 16px; }
+    .about-hero h1 span { color: var(--yellow); }
+    .about-hero p { max-width: 700px; margin: 0 auto; color: var(--gray-400); font-size: 1.1rem; }
+    .about-content { max-width: 1000px; margin: 60px auto; padding: 0 24px; }
+    .about-text {
+        background: var(--white); border-radius: var(--r-xl);
+        padding: 40px; box-shadow: var(--sh-lg);
+        line-height: 1.9; font-size: 1.05rem; color: var(--gray-700);
+    }
+    .about-text p { margin-bottom: 24px; }
+    .values-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin-top: 50px; }
+    .value-card {
+        background: var(--white); border-radius: var(--r-lg);
+        padding: 24px; text-align: center; box-shadow: var(--sh-md); transition: 0.3s;
+    }
+    .value-card:hover { transform: translateY(-5px); box-shadow: var(--sh-xl); }
+    .value-icon {
+        width: 70px; height: 70px; background: var(--yellow-pale);
+        border-radius: 50%; display: flex; align-items: center;
+        justify-content: center; margin: 0 auto 20px; font-size: 2rem; color: var(--yellow);
+    }
+    .value-card h3 { font-size: 1.3rem; margin-bottom: 12px; }
+    .value-card p { font-size: 0.9rem; color: var(--gray-500); }
+</style>
+
+<div class="about-hero">
+    <h1>عن <span>دبّرها</span></h1>
+    <p>منصة أردنية رائدة في الاقتصاد التشاركي للمعدات والمركبات الثقيلة</p>
+</div>
+
+<div class="about-content">
+    <div class="about-text">
+        <p>دبّرها هي المنصة الأردنية الرائدة في مجال الاقتصاد التشاركي...</p>
+        <p>في 'دبّرها'، نحن لا نوفر معدات فحسب، بل نبني مجتمعاً قائماً على الثقة...</p>
+    </div>
+    <div class="values-grid">
+        <div class="value-card">
+            <div class="value-icon">🔒</div>
+            <h3>أمان وثقة</h3>
+            <p>توثيق هوية المستخدمين + عقود رقمية ملزمة</p>
+        </div>
+        <div class="value-card">
+            <div class="value-icon">⚡</div>
+            <h3>سرعة وسهولة</h3>
+            <p>أقل من 3 دقائق لنشر إعلانك، وحجز فوري</p>
+        </div>
+        <div class="value-card">
+            <div class="value-icon">💰</div>
+            <h3>اقتصاد تشاركي</h3>
+            <p>حقق دخلاً إضافياً من أصولك الخاملة</p>
+        </div>
+    </div>
+</div>
